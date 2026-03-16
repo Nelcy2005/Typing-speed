@@ -101,30 +101,31 @@ java -cp ".;mysql-connector-j-9.6.0.jar" Main
 
 ## Application Screenshots
 
+## Application Screenshots
+
 ### Login Page
-![Login Page](screenshots/Login%20page.png)
+![Login Page](screenshots/Login page.png)
 
 ### Dashboard
 ![Dashboard](screenshots/Dashboard.png)
 
 ### Typing Test
-![Typing Test](screenshots/Type%20testing.png)
+![Typing Test](screenshots/Type testing.png)
 
 ### WPM Score
-![WPM Score](screenshots/WPM%20score.png)
+![WPM Score](screenshots/WPM score.png)
 
 ### History
 ![History](screenshots/History.png)
 
 ### Edit Username
-![Edit Username](screenshots/Edit%20username.png)
+![Edit Username](screenshots/Edit username.png)
 
 ### Edit Password
-![Edit Password](screenshots/Edit%20password.png)
+![Edit Password](screenshots/Edit password.png)
 
 ### Updated MySQL Table
-![Updated MySQL Table](screenshots/Updated%20MySQL%20Table.png)
-
+![Updated MySQL Table](screenshots/Updated MySQL Table.png)
 Example:
 
 Typing Interface
