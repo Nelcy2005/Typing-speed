@@ -97,24 +97,6 @@ Run using:
 
 java -cp ".;mysql-connector-j-9.6.0.jar" Main
 
-### Screenshots###
-
-![Login](screenshots/login-page.png)
-
-![Dashboard](screenshots/Dashboard.png)
-
-![Typing Test](screenshots/Type-testing.png)
-
-![WPM Score](screenshots/WPM-score.png)
-
-![History](screenshots/History.png)
-
-![Edit Username](screenshots/Edit-username.png)
-
-![Edit Password](screenshots/Edit-password.png)
-
-![Updated MySQL Table](screenshots/Updated-MySQL-Table.png)
-
 Example:
 
 Typing Interface
