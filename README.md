@@ -99,16 +99,31 @@ java -cp ".;mysql-connector-j-9.6.0.jar" Main
 
 📸 Application UI
 
-Add screenshots here:
+## Application Screenshots
 
-/screenshots/Login page.png
-/screenshots/Dashboard.png
-/screenshots/Type testing.png
-/screenshots/WPM score.png
-/screenshots/History.png
-/screenshots/Edit username.png
-/screenshots/Edit password.png
-/screenshots/Updated MySQL Table.png
+### Login Page
+![Login Page](screenshots/Login%20page.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Typing Test
+![Typing Test](screenshots/Type%20testing.png)
+
+### WPM Score
+![WPM Score](screenshots/WPM%20score.png)
+
+### History
+![History](screenshots/History.png)
+
+### Edit Username
+![Edit Username](screenshots/Edit%20username.png)
+
+### Edit Password
+![Edit Password](screenshots/Edit%20password.png)
+
+### Updated MySQL Table
+![Updated MySQL Table](screenshots/Updated%20MySQL%20Table.png)
 
 Example:
 
