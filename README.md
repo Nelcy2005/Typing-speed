@@ -1,11 +1,11 @@
-# ⌨️ Typing Speed Test Application (Java + JDBC)
+# Typing Speed Test Application (Java + JDBC)
 
 A simple **Typing Speed Test Desktop Application** developed using **Java, Swing, and MySQL (JDBC)**.  
 This project was created as a **mini project for Java Programming** to demonstrate **Object-Oriented Programming concepts and Database Connectivity**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The Typing Speed Test application allows users to:
 
@@ -18,18 +18,18 @@ The project demonstrates **Java fundamentals, OOP concepts, and JDBC CRUD operat
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧠 Random typing text
-- ⏱ Typing speed calculation
-- 💾 Store results in MySQL database
-- 📊 View typing history
-- 🖥 Simple Swing based UI
-- 🔗 JDBC database connection
+-  Random typing text
+-  Typing speed calculation
+-  Store results in MySQL database
+-  View typing history
+-  Simple Swing based UI
+-  JDBC database connection
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-----------|--------|
@@ -42,20 +42,20 @@ The project demonstrates **Java fundamentals, OOP concepts, and JDBC CRUD operat
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 1️⃣ Install Requirements
+1 Install Requirements
 
 Make sure the following are installed:
 
-- **Java JDK 17 or above**
-- **MySQL Server**
-- **MySQL Connector JAR**
-- **VS Code**
+* **Java JDK 17 or above**
+* **MySQL Server**
+* **MySQL Connector JAR**
+* **VS Code**
 
 ---
 
-### 2️⃣ Create Database
+2 Create Database
 
 Open **MySQL Workbench** or MySQL terminal and run:
 
@@ -71,7 +71,8 @@ CREATE TABLE results (
     accuracy DOUBLE,
     test_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-3️⃣ Configure Database Connection
+
+3 Configure Database Connection
 
 Edit the file:
 
@@ -81,7 +82,8 @@ Update your MySQL credentials:
 
 private static final String USER = "root";
 private static final String PASSWORD = "your_password";
-4️⃣ Add MySQL Connector
+
+4 Add MySQL Connector
 
 Download:
 
@@ -105,7 +107,7 @@ Result Display
 
 Database Records
 
-👩‍💻 Author
+Author
 
 Nelcy
 
